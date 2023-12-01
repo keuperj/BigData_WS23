@@ -12,4 +12,8 @@ Labor Big Data Vorlesung WS23
 
 
 ## Labor 3 (1.12.)
+* [Hive](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_3/Assignment_Hive.ipynb)
+* [H-Base](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_3/Assignment_HBASE.ipynb)
 
+### Daten
+* [employees.csv](Block_3/employees.csv)
