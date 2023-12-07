@@ -17,3 +17,9 @@ Labor Big Data Vorlesung WS23
 
 ### Daten
 * [employees.csv](Block_3/employees.csv)
+
+## Labor Block 4 (8.12.)
+* [DASK Intro](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_4/dask_intro.ipynb)
+* [NY Taxi Fare Prediction with DASK](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_4/Assigment_NY_Taxi_on_Dask.ipynb)
+* [Data Visualization with Keppler](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_4/Keppler_DataVis.ipynb)
+
