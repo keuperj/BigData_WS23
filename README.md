@@ -23,3 +23,9 @@ Labor Big Data Vorlesung WS23
 * [NY Taxi Fare Prediction with DASK](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_4/Assigment_NY_Taxi_on_Dask.ipynb)
 * [Data Visualization with Keppler](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_4/Keppler_DataVis.ipynb)
 
+## Labor Block 5 (15.12.)
+* [RAPIDS Intro Notebook](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_5/Rapids_intro.ipynb)
+  * [cuDF API](https://docs.rapids.ai/api/cudf/stable/)
+  * [cuML API](https://docs.rapids.ai/api/cuml/stable/)
+* [RAPIDS Benchmarks](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_5/cuml_benchmarks.ipynb)
+* [Ny Taxi on GPU](https://colab.research.google.com/github/keuperj/BigData_WS23/blob/main/Block_5/NY_Taxi_Rapids.ipynb)
